@@ -33,7 +33,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ana-aranha/ana-aranha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
