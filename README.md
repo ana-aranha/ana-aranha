@@ -1,4 +1,4 @@
-<p align="left">Hello World!! I'm Ana !</p>
+<p align="left">Hello there! I'm Ana ! 👋</p>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Student of Full Stack Web Development at Driven<br><br>- Graduated in physics and passionate about science<br><br>- Currently studying React<br><br>- Fun fact: I love anime, manga and I'm addicted to webtoons</p>
+<p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about science<br><br>- 🌱 Currently studying React<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
 
 ###
 
