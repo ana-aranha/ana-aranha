@@ -1,4 +1,4 @@
-<p align="left">Hello there! I'm Ana ! 👋</p>
+<h1 align="left">Hello there! I'm Ana ! 👋</h1>
 
 ###
 
