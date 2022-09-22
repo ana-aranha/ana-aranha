@@ -5,7 +5,7 @@
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 ###
 
-<p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about science<br><br>- 🌱 Currently studying Node e MongoDB<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
+<p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about science<br><br>- 🌱 Currently studying SQL<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
 
 ###
 
@@ -15,6 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
