@@ -3,7 +3,7 @@
 ###
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-###
+
 
 <p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about science<br><br>- 🌱 Currently studying SQL<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
 
