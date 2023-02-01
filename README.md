@@ -35,20 +35,15 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ana-aranha" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ana-aranha" height="150" alt="languages graph"  />
 </div>
-
-###
-
 <br clear="both">
 
-###
-
-<br clear="both">
+##
 
 <div align="right">
-  <a href='https://www.linkedin.com/in/ana-aranha/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  /><a/>
-  <a href='https://twitter.com/biaaranha98' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  /></a>
-  <a href='https://www.instagram.com/biaaranha98/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  /></a>
-  <a href='https://discordapp.com/users/663557550326677515' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  /></a>
+  <p>Contact me:</p>
+<div align="right">
+  <a href='https://www.linkedin.com/in/ana-aranha/' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="30" alt="linkedin logo"  /><a/>
+  <a href='https://discordapp.com/users/663557550326677515' target='_blank'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="30" alt="discord logo"  /></a>
 </div>
 
 ###
