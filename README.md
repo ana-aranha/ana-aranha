@@ -5,7 +5,7 @@
 <img align="right" height="300" src="https://i.pinimg.com/564x/ab/85/a1/ab85a1ccb30b46b2f8da98bc6bea2bdb.jpg"  />
 
 <br>
-<p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about learning<br><br>- 🌱 Currently studying Docker and Redis <br><br>- 💭 Plan to learn: Rust and neovim shortcuts<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
+<p align="left">- 💻 Student of Full Stack Web Development at Driven<br><br>- ⚛️ Graduated in physics and passionate about learning<br><br>- 🌱 Currently studying Docker, AWS and Redis <br><br>- 💭 Plan to learn: Rust and neovim shortcuts<br><br>- ⚡ Fun fact: I love anime, manga and I'm addicted to webtoons</p>
 
 ###
 
