@@ -35,7 +35,8 @@
 ## 🌐 Contact me:
 <div align="left">
   <a href='https://www.linkedin.com/in/ana-aranha/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo"  /><a/>
-  <a href='https://discordapp.com/users/663557550326677515' target='_blank'><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord logo"  /></a>
-</div>
+  <a href='https://discordapp.com/users/663557550326677515' target='_blank'><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord logo"  /></a><br>
+📫 : <a href='mailto:anab.aranha@gmail.com'>anab.aranha@gmail.com</a>
+    </div>
 
 ###
